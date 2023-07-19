@@ -94,7 +94,7 @@ What the GetSurchargesController controller does is read the information from th
 
 ## Installation
 ```sh
-git  https://github.com/jonquintero/cargofive.git cargofive
+git clone https://github.com/jonquintero/cargofive.git cargofive
 cd cargofive
 ```
 
