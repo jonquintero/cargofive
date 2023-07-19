@@ -109,6 +109,12 @@ Setup configuration:
 ```sh
 cp .env.example .env
 ```
+
+Rename env Var in env
+```sh
+DB_DATABASE=cargofive
+```
+
 Generate application key:
 
 ```sh
@@ -119,7 +125,6 @@ Setup env file testing:
 ```sh
 cp .env .env.testing
 ```
-
 
 Create a Database called cargofive and run the sql file  cargofive.sql that you can find in this project.
 
