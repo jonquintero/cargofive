@@ -152,7 +152,14 @@ The method to get the surcharges in json format
 GET  http://localhost:8000/api/surcharges
 ```
 
-To run test.
+#To run test.
+
+Please first copy the file ChallengeRates.xlsx into 
+
+```sh
+ ./storage/app
+```
+After that run:
 ```sh
  ./vendor/bin/pest
 ```
